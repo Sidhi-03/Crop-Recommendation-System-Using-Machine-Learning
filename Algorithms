@@ -14,6 +14,7 @@ neighbors classifies an object, with the object assigned to the class most commo
 its k nearest neighbors (k is a positive integer, typically small). If k = 1, the object is simply 
 assigned to the class of the object's single nearest neighbor. 
 
+
 PACKAGES 
 The packages used in this model include: 
 • Pandas 
@@ -21,4 +22,4 @@ The packages used in this model include:
 • Scikit-plot 
 • Matplotlib‘s pyplot 
 • Seaborn 
-4.4.1 DATA MANI
+
