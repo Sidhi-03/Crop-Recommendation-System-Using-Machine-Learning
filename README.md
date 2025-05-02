@@ -50,11 +50,3 @@ You can download the dataset from [Kaggle - Crop Recommendation Dataset](https:/
 4. Deployment: integrated into Streamlit for simple UI access.
 
 ---
-
-## 💻 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/crop-recommendation-ml.git
-cd crop-recommendation-ml
