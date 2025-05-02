@@ -1,0 +1,24 @@
+RANDOM FOREST 
+Random Forest is a supervised machine learning technique that can be applied to 
+Classification and Regression problems. It is based on the concept of ensemble learning, 
+which is the process of combining multiple classifiers to solve a complex problem and 
+improve the model's performance. Random Forest is a classifier that uses the average of a 
+number of decision trees from a given dataset to improve the predictive accuracy of the 
+data set. Instead of relying on a single decision tree, the random forest takes the predictions 
+from each tree and predicts the final output based on the majority vote of predictions.
+
+ K NEAREST NEIGHBOUR  
+The k-nearest neighbors‘ algorithm (K-NN) is a nonparametric method for classification 
+that is used in N pattern recognition. The result is class membership. A majority vote of its 
+neighbors classifies an object, with the object assigned to the class most common among 
+its k nearest neighbors (k is a positive integer, typically small). If k = 1, the object is simply 
+assigned to the class of the object's single nearest neighbor. 
+
+PACKAGES 
+The packages used in this model include: 
+• Pandas 
+• Scikit-learn 
+• Scikit-plot 
+• Matplotlib‘s pyplot 
+• Seaborn 
+4.4.1 DATA MANI
