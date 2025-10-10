@@ -1,4 +1,4 @@
-# 🌾 Crop Recommendation System Using Machine Learning
+# 🌾 Agriculture Crop Recommendation System Using Machine Learning
 
 This project predicts the most suitable crop to cultivate based on environmental conditions such as Nitrogen, Phosphorus, Potassium (NPK), temperature, humidity, pH, and rainfall using machine learning models.
 
